@@ -4,7 +4,7 @@
 >
 > 交互与具体使用以实际调用为准。README 描述的是本 skill 的业务实体、实体关系，以及依赖这些实体勉强运转的流程。
 
-- 作者：本来真不想写的人　状态：草稿 v0.1。不会有 v1.0，v1.0 需要有人签字
+- 作者：本来真不想写的人·本来心胸宽广大心眼的人　状态：草稿 v0.1。不会有 v1.0，v1.0 需要有人签字
 - Demo：你正在读的这一份
 - 图例：**[待确认]** = 没人知道；**[提案]** = 有人知道，但不想负责；**[愿景]** = 写给下一任看的
 
@@ -222,3 +222,5 @@ cp -r benlai-zhen-buxiang-xie/skills/benlai-zhen-buxiang-xie ~/.claude/skills/
 *你读完了。*
 
 *本文档不构成任何承诺。如有雷同，说明你也写过 PRD。*
+
+> Craftman is knowing how to work, art is knowing when to stop.
